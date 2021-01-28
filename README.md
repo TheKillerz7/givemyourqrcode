@@ -4,8 +4,6 @@ This website is created using React Framework and Firebase's Real-Time database
 
 If you want to login into the website user: 021639@spsm.ac.th pass: 123456
 
-If you want to know what the website is all about, check https://www.facebook.com/samueldavid.shu/posts/2811734209056035
-
 Purpose of this website:
   During this pandemic time, everything is getting affected. No one should be near to one another due to Covid-19 Pandemic.
   But how are we going to get in touch with our juniors in IT Major. We don't know them yet and we will work together sometimes
@@ -26,3 +24,5 @@ Function of the website:
   each Senior who gets scanned by that client who is a Junior their name will get dashed out to let the client know who else does the client not scan yet.
   But if the client is a Senior, it will work the opposite way. The name of the Juniors who already scanned the client will get dashed out to let the
   client know who else doesn't scan the client yet.
+  
+  If you want to know more about this website, check https://www.facebook.com/samueldavid.shu/posts/2811734209056035
